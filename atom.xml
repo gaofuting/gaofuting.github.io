@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="gaofuting.github.io/"/>
   <updated>2019-01-29T05:38:11.609Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>gaofuting.github.io/</id>
   
   <author>
     <name>gaofuting</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My First Post</title>
-    <link href="http://yoursite.com/2019/01/29/My-First-Post/"/>
-    <id>http://yoursite.com/2019/01/29/My-First-Post/</id>
+    <link href="gaofuting.github.io/2019/01/29/My-First-Post/"/>
+    <id>gaofuting.github.io/2019/01/29/My-First-Post/</id>
     <published>2019-01-29T05:34:28.000Z</published>
     <updated>2019-01-29T05:38:11.609Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/01/29/hello-world/"/>
-    <id>http://yoursite.com/2019/01/29/hello-world/</id>
+    <link href="gaofuting.github.io/2019/01/29/hello-world/"/>
+    <id>gaofuting.github.io/2019/01/29/hello-world/</id>
     <published>2019-01-29T03:17:50.794Z</published>
     <updated>2019-01-29T03:17:50.795Z</updated>
     
